@@ -1,0 +1,1 @@
+Wrzuciłem kilka przykładowych kawałków kodu. Na górze pododawałem komentarze z krótkim info co to robi.
